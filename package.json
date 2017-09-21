@@ -1,0 +1,22 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beldrevo/liri-node-app.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beldrevo/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/beldrevo/liri-node-app#readme"
+}
