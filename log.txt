@@ -1,0 +1,12 @@
+
+
+Artist: Maroon 5
+The song's name: Sugar
+Preview spotify link: https://api.spotify.com/v1/tracks/2iuZJX9X9P0GKaE93xcPjk
+The album name: V
+
+Artist: Harry Styles
+The song's name: Sign of the Times
+Preview spotify link: https://api.spotify.com/v1/tracks/5ELRkzdzz0HvGpMDlfZHkV
+The album name: Sign of the Times
+
